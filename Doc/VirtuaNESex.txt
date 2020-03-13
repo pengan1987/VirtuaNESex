@@ -1,0 +1,40 @@
+VirtuaNES 0.86a mapper extension
+================================
+
+Support mappers:
+================
+mapper 27:
+           WorldHero
+mapper 163:NanJing's game
+           Paladin(C)
+           Harvest_Moon(C)
+mapper 164:Union-bond's game
+           Digital_dragon(C)
+           sanguo2(C)
+           Final Fantasy V(C)
+           Pocket Monster Gold(C)
+           ...
+mapper 165: 
+           Fire Emblem (Chinese version)
+mapper 167:Subor Computer serias(PAL mode)
+           Subor Computer V1.0 (Russian)
+           Subor Computer V2.0 (Chinese)
+           Subor Computer V4.0 (Chinese)
+           Subor English (Chinese)
+
+Support Controller:
+===================
+Subor Computer Keyboard:
+Use by Subor Computer and EDU(C)
+
+Fixed:
+======
+PAL timing:
+        Total scanlines   : 313
+        Vblank start lines: 291
+
+Others:
+=======
+This extension is made by tpu(tpunix [AT] 126.com).
+You can find the new roms at (http://www.romchina.com).
+Enjoy it!
